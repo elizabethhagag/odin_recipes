@@ -7,6 +7,16 @@ img{
 
   h1 {
       text-align: center;
-     
   }
 
+  /* main {
+      display: flex;
+      border: 1px solid red;
+      justify-content: center;
+      flex-direction: column;
+  }
+
+  main section {
+      width: 200px;
+      border:1px solid red;
+  } */
